@@ -200,17 +200,12 @@ img{
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 295px;
+    width: 200px;
 }
 .home__img img{
-    border-radius:58% 40% 52% 56% / 36% 47% 65% 60%  ;
-    /* height: 415px;
-    width: 400px;  */
+    border-radius: 48% 50% 43% 56% / 56% 51% 65% 52%  ;
 }
-/* img{
-    height: 400px;
-    width: 400px;
-} */
+
 .button{
     display: inline-block;
     background-color: var(--first-color);
